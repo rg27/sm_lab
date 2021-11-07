@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  body: MyText
+  published_at: 2021-11-07 22:26:53
+  physician: one
+
+two:
+  title: MyString
+  body: MyText
+  published_at: 2021-11-07 22:26:53
+  physician: two
